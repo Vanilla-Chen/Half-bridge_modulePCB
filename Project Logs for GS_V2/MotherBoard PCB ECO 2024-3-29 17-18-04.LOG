@@ -1,0 +1,68 @@
+Removed Pin From Net: NetName=SW Pin=C?-1
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=C? NewDesignator=C4
+Change Component Designator: OldDesignator=C? NewDesignator=C9
+Change Component Designator: OldDesignator=C? NewDesignator=C10
+Change Component Designator: OldDesignator=U? NewDesignator=U2
+Change Component Designator: OldDesignator=U? NewDesignator=U4
+Added Component: Designator=C29(C 0805_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C30(C 0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C31(C 0805_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C32(C 0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=JP2(HDR2.54-WI-2x7P)
+Add component (AddParameter): Name = "BOM名称"; Value = "7*2P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=JP3(HDR2.54-WI-2x7P)
+Add component (AddParameter): Name = "BOM名称"; Value = "7*2P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=JP4(HDR2.54-WI-2x7P)
+Add component (AddParameter): Name = "BOM名称"; Value = "7*2P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=U7(UWF_S-1WR3)
+Added Component: Designator=U8(UWF_S-1WR3)
+Added Pin To Net: NetName=AGND Pin=C3-1
+Added Pin To Net: NetName=SW Pin=C4-1
+Added Pin To Net: NetName=+9V_ISO_T Pin=C4-2
+Added Pin To Net: NetName=AGND Pin=C9-1
+Added Pin To Net: NetName=VCC5V Pin=C9-2
+Added Pin To Net: NetName=PGND Pin=C10-1
+Added Pin To Net: NetName=+9V_ISO_B Pin=C10-2
+Added Pin To Net: NetName=AGND Pin=C29-1
+Added Pin To Net: NetName=VCC5V Pin=C29-2
+Added Pin To Net: NetName=SW Pin=C30-1
+Added Pin To Net: NetName=+9V_ISO_T Pin=C30-2
+Added Pin To Net: NetName=AGND Pin=C31-1
+Added Pin To Net: NetName=VCC5V Pin=C31-2
+Added Pin To Net: NetName=PGND Pin=C32-1
+Added Pin To Net: NetName=+9V_ISO_B Pin=C32-2
+Added Pin To Net: NetName=AGND Pin=U4-1
+Added Pin To Net: NetName=VCC5V Pin=U4-2
+Added Pin To Net: NetName=+9V_ISO_B Pin=U4-6
+Added Pin To Net: NetName=PGND Pin=U4-7
+Added Pin To Net: NetName=AGND Pin=U7-1
+Added Pin To Net: NetName=VCC5V Pin=U7-2
+Added Pin To Net: NetName=+9V_ISO_T Pin=U7-6
+Added Pin To Net: NetName=SW Pin=U7-7
+Added Pin To Net: NetName=AGND Pin=U8-1
+Added Pin To Net: NetName=VCC5V Pin=U8-2
+Added Pin To Net: NetName=+9V_ISO_B Pin=U8-6
+Added Pin To Net: NetName=PGND Pin=U8-7
