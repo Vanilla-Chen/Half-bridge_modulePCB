@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=VCC5V Pin=JP2-1
+Removed Pin From Net: NetName=Top2_IN+ Pin=JP2-10
+Removed Pin From Net: NetName=Top2_IN- Pin=JP2-12
+Removed Pin From Net: NetName=Bot2_IN+ Pin=JP2-14
+Removed Pin From Net: NetName=Bot2_IN- Pin=JP2-16
+Added Pin To Net: NetName=Top2_IN+ Pin=JP2-1
+Added Pin To Net: NetName=Top2_IN- Pin=JP2-3
+Added Pin To Net: NetName=Bot2_IN+ Pin=JP2-5
+Added Pin To Net: NetName=Bot2_IN- Pin=JP2-7
+Added Pin To Net: NetName=VCC5V Pin=JP2-13

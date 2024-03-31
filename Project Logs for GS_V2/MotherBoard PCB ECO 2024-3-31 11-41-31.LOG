@@ -1,0 +1,15 @@
+Added Component: Designator=TP1(tp32)
+Add component (AddParameter): Name = "Value"; Value = "测试点"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件描述"; Value = "电源和信号测试点"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "是否安装"; Value = "否"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "贴片和直插"; Value = "机械组装"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "采购链接"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP2(tp32)
+Add component (AddParameter): Name = "Value"; Value = "测试点"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件描述"; Value = "电源和信号测试点"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "是否安装"; Value = "否"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "贴片和直插"; Value = "机械组装"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "采购链接"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PGND Pin=TP2-1
+Added Pin To Net: NetName=HVBUS Pin=TP1-1
+Added Net: Name=HVBUS

@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=VCC5V Pin=JP2-14
+Removed Pin From Net: NetName=AGND Pin=JP2-16
+Added Component: Designator=SP1(M3x7+6_N)
+Add component (AddParameter): Name = "BOM名称"; Value = "铜柱"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=SP2(M3x7+6_N)
+Add component (AddParameter): Name = "BOM名称"; Value = "铜柱"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=SP3(M3x7+6_N)
+Add component (AddParameter): Name = "BOM名称"; Value = "铜柱"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=SP4(M3x7+6_N)
+Add component (AddParameter): Name = "BOM名称"; Value = "铜柱"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
