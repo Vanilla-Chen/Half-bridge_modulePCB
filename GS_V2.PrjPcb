@@ -49,6 +49,74 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=..\Lib\ul_OPA2171AIDR\AltiumDesigner\OPA2171AIDR.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=SECTVLRT
+
+[Document2]
+DocumentPath=..\Lib\ul_OPA2171AIDR\AltiumDesigner\OPA2171AIDR.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=QIQHGIFX
+
+[Document3]
+DocumentPath=..\Lib\ul_INA296A3IDDFR\AltiumDesigner\INA296A3IDDFR.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=DPLIVNLM
+
+[Document4]
+DocumentPath=..\Lib\ul_INA296A3IDDFR\AltiumDesigner\INA296A3IDDFR.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NNSKROOG
+
+[Document5]
 DocumentPath=..\Lib\UWF_S-1WR3.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -65,7 +133,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QQHKHNLK
 
-[Document2]
+[Document6]
 DocumentPath=..\Lib\UWF_S-1WR3.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -82,7 +150,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EJXELVFM
 
-[Document3]
+[Document7]
 DocumentPath=..\Lib\ul_TPS70960DBVR\AltiumDesigner\TPS70960DBVR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -99,7 +167,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XNWIFOUW
 
-[Document4]
+[Document8]
 DocumentPath=..\Lib\ul_TPS70960DBVR\AltiumDesigner\TPS70960DBVR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -116,7 +184,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=STGNARIT
 
-[Document5]
+[Document9]
 DocumentPath=..\Lib\GaN-Systems_Altium_Library-220525\GANSYS_ALTIUM_SYMBOL_20220525.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -133,7 +201,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BOSJWJYQ
 
-[Document6]
+[Document10]
 DocumentPath=..\Lib\GaN-Systems_Altium_Library-220525\GANSYS_ALTIUM_FOOTPRINT_20220525.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -150,7 +218,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HGCLBXBS
 
-[Document7]
+[Document11]
 DocumentPath=..\Lib\ul_ADUM4121-1ARIZ\AltiumDesigner\ADUM4121-1ARIZ.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -167,7 +235,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HUACLFIR
 
-[Document8]
+[Document12]
 DocumentPath=..\Lib\ul_ADUM4121-1ARIZ\AltiumDesigner\ADUM4121-1ARIZ.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -184,7 +252,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HOARERIX
 
-[Document9]
+[Document13]
 DocumentPath=..\Lib\LMG3522R030QRQSRQ1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -201,7 +269,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QAGEDEVG
 
-[Document10]
+[Document14]
 DocumentPath=..\Lib\LMG3522R030QRQSRQ1.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -218,7 +286,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AQWAPSFD
 
-[Document11]
+[Document15]
 DocumentPath=GS_V2.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -235,7 +303,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DCHZLUNX
 
-[Document12]
+[Document16]
 DocumentPath=GS_V2.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -252,7 +320,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QXFVHGTQ
 
-[Document13]
+[Document17]
 DocumentPath=MotherBoard.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -269,7 +337,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FMYINGBU
 
-[Document14]
+[Document18]
 DocumentPath=MotherBoard.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
